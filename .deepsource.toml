@@ -9,3 +9,4 @@ enabled = true
   plugins = ["vue"]
   dialect = "typescript"
   style_guide = "standard"
+  dependency_file_paths = ["desktopapp/package.json"]
